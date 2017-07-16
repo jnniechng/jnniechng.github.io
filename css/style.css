@@ -46,6 +46,9 @@ body a{
 .menu ul li a:hover{
 	color:#c59a6d;
 }
+#bright{
+	filter: brightness(100%);
+}
 span.menu-icon{
 	width: 42px;
 	height: 42px;
