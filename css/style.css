@@ -21,7 +21,7 @@ body a{
 	background:url(../images/jennie_smiling.jpg) no-repeat 0px 0px;
 	background-size:cover;
 	min-height:750px;
-	brightness: 60%;
+  filter: brightness(60%);
 	position:relative;
 }
 .menu{
