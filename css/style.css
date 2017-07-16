@@ -293,7 +293,7 @@ a.more{
 	display:inline-block;
 }
 a.more:hover{
-	background:#282f35;
+	background:#000;
 }
 /*-- clients --*/
 .clients{
