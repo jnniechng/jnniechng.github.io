@@ -19,7 +19,6 @@ body a{
 /*-- header --*/
 .header{
 	background:url(../images/jennie_smiling.jpg) no-repeat 0px 0px;
-	filter: brightness(60%);
 	background-size:cover;
 	min-height:750px;
 	position:relative;
