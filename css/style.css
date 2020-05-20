@@ -21,7 +21,7 @@ body a{
 	background:url(../images/jennie_header.jpg) no-repeat 0px 0px;
 	background-size:cover;
 	min-height:750px;
-	position:static;
+	position:relative;
 }
 .menu{
 
